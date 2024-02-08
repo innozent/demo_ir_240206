@@ -1,0 +1,77 @@
+description: Ultralytics best model trained on data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2024-02-08T08:57:51.547863'
+version: 8.1.10
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: CC-240ml-slim
+  1: SP-240ml-slim
+  2: FS-240ml-slim
+  3: FO-240ml-slim
+  4: FP-240ml-slim
+  5: CC-455ml-pet
+  6: Splash-250ml-buddy
+  7: MMO-290ml
+  8: CZ-240ml-slim
+  9: CC-1.25L-pet
+  10: CC-10oz-grass
+  11: CC-325ml-can
+  12: CC-250ml-buddy
+  13: CC-300ml-pet
+  14: CC-500ml-pet
+  15: CC-999ml-pet
+  16: CC-2L-pet
+  17: CZ-325ml-can
+  18: CZ-500ml-pet
+  19: CZ-1.25L-pet
+  20: CL-325ml-can
+  21: SP-10oz-grass
+  22: SP-325ml-can
+  23: SP-250ml-buddy
+  24: SP-455ml-pet
+  25: SP-999ml-pet
+  26: SP-1.25L-pet
+  27: FP-10oz-grass
+  28: FP-325ml-can
+  29: FP-250ml-buddy
+  30: FP-455ml-pet
+  31: FP-999ml-pet
+  32: FP-1.25L-pet
+  33: FO-10oz-grass
+  34: FO-325ml-can
+  35: FO-250ml-buddy
+  36: FO-455ml-pet
+  37: FO-999ml-pet
+  38: FO-1.25L-pet
+  39: FS-10oz-grass
+  40: FS-325ml-can
+  41: FS-250ml-buddy
+  42: FS-300ml-pet
+  43: FS-455ml-pet
+  44: FS-999ml-pet
+  45: FS-1.25L-pet
+  46: FGrape-1.25L-pet
+  47: SW-MS330ml
+  48: SW-Soda330ml
+  49: SW-Tonic330ml
+  50: SW-GinL330ml
+  51: NT-1.5L-pet
+  52: NT-550ml
+  53: NT-350ml-pet
+  54: BA-570ml-pet
+  55: SPSLB-250ml
+  56: SZ+-325ml-can
+  57: CZMarsh-325ml-can
+  58: SWZRasp-330ml-can
+  59: SWZPine-330ml-can
+  60: SWZMS-330ml-can
+  61: CZ-300ml-pet
+  62: Fgrape-455ml-pet
+  63: CZStarshine-325ml-can
+  64: CZ-999ml-pet
